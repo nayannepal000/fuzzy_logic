@@ -116,7 +116,4 @@ The output will show three plots representing the membership functions for each 
 
 ---
 
-## Notes
 
-- The membership functions can be customized by adjusting the triangular function parameters.
-- You can add more variables or modify the fuzzy rules to better fit specific scenarios for the pet feeder.
